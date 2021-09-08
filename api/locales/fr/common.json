@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Ce champ doit être une instance de {{type}}",
     "BASE_TYPE_OBJECT": "Ce champ doit être un objet",
     "BASE_TYPE_ARRAY": "Ce champ doit être un tableau",
-    "UNKOWN_FIELD": "Clé inconnue: {{key}}",
+    "UNKNOWN_FIELD": "Clé inconnue: {{key}}",
     "BASE_TYPE_CONSTANT": "Ce champ doit être {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "Adresse e-mail mal formaté",
     "DATE_TYPE_PARSE": "Impossible d'analyser {{date}}. Doit être ISO8601",

@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Dit veld moet een instantie zijn van {{type}}",
     "BASE_TYPE_OBJECT": "Dit veld moet een object zijn.",
     "BASE_TYPE_ARRAY": "Dit veld moet een array zijn.",
-    "UNKOWN_FIELD": "Onbekende sleutel: {{key}}",
+    "UNKNOWN_FIELD": "Onbekende sleutel: {{key}}",
     "BASE_TYPE_CONSTANT": "Dit veld moet zijn: {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "Dit email adres is onjuist.",
     "DATE_TYPE_PARSE": "Kon {{date}} niet parsen. Moet ISO8601 zijn.",

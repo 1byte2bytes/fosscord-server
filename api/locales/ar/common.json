@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "يجب أن يكون هذا الحقل مثيل {{type}}",
     "BASE_TYPE_OBJECT": "يجب أن يكون هذا الحقل كائناً",
     "BASE_TYPE_ARRAY": "يجب أن يكون هذا الحقل مصفوفة",
-    "UNKOWN_FIELD": "مفتاح غير معروف: {{key}}",
+    "UNKNOWN_FIELD": "مفتاح غير معروف: {{key}}",
     "BASE_TYPE_CONSTANT": "يجب أن يكون هذا الحقل {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "عنوان البريد الإلكتروني ليس مشكّل جيدا",
     "DATE_TYPE_PARSE": "لا يمكن تحليل {{date}}. يجب أن يكون ISO8601",

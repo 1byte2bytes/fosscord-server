@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Это поле должно быть экземпляром {{type}}",
     "BASE_TYPE_OBJECT": "Это поле должно быть объектом",
     "BASE_TYPE_ARRAY": "Это поле должно быть массивом",
-    "UNKOWN_FIELD": "Неизвестное поле: {{key}}",
+    "UNKNOWN_FIELD": "Неизвестное поле: {{key}}",
     "BASE_TYPE_CONSTANT": "Это поле должно быть {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "Неправильный формат адреса электронной почты",
     "DATE_TYPE_PARSE": "Не удалось разобрать {{date}}. Дата должна быть в ISO8601",

@@ -172,7 +172,7 @@ export function instanceOf(
 				Object.keys(type).map((x) => (x.startsWith(OPTIONAL_PREFIX) ? x.slice(OPTIONAL_PREFIX.length) : x))
 			);
 
-			if (diff.length) throw new FieldError("UNKOWN_FIELD", req.t("common:field.UNKOWN_FIELD", { key: diff }));
+			if (diff.length) throw new FieldError("UNKNOWN_FIELD", req.t("common:field.UNKNOWN_FIELD", { key: diff }));
 
 			return (
 				Object.keys(type).every((key) => {

@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "このフィールドは {{type}} のインスタンスでなければなりません",
     "BASE_TYPE_OBJECT": "このフィールドはオブジェクトでなければなりません",
     "BASE_TYPE_ARRAY": "このフィールドは配列でなければなりません",
-    "UNKOWN_FIELD": "不明なキー： {{key}}",
+    "UNKNOWN_FIELD": "不明なキー： {{key}}",
     "BASE_TYPE_CONSTANT": "このフィールドは {{value}} でなければなりません",
     "EMAIL_TYPE_INVALID_EMAIL": "メールアドレスが正しくありません",
     "DATE_TYPE_PARSE": "{{date}}を解析できませんでした。ISO8601である必要があります",

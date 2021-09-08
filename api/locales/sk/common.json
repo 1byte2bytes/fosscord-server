@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Toto pole musí byť inštanciou z {{type}}",
     "BASE_TYPE_OBJECT": "Toto pole musí byť objekt",
     "BASE_TYPE_ARRAY": "Toto pole musí byť pole",
-    "UNKOWN_FIELD": "Neznámy kľúč: {{key}}",
+    "UNKNOWN_FIELD": "Neznámy kľúč: {{key}}",
     "BASE_TYPE_CONSTANT": "Toto pole musí byť {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "Nie je správne formulovaná emailová adresa",
     "DATE_TYPE_PARSE": "Nepodarilo sa analyzovať {{date}}. Malo by byť ISO8601",

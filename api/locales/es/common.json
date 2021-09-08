@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Este campo debe ser una instancia de {{type}}",
     "BASE_TYPE_OBJECT": "Este campo debe ser un objeto",
     "BASE_TYPE_ARRAY": "Este campo debe ser una matriz",
-    "UNKOWN_FIELD": "Clave desconocida: {{key}}",
+    "UNKNOWN_FIELD": "Clave desconocida: {{key}}",
     "BASE_TYPE_CONSTANT": "Este campo debe ser {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "No es una dirección de email bien formada",
     "DATE_TYPE_PARSE": "No se pudo analizar {{date}}. Debe ser ISO8601",

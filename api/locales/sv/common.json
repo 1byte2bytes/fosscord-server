@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Det här fältet måste vara en instans av {{type}}",
     "BASE_TYPE_OBJECT": "Detta fält måste vara ett objekt",
     "BASE_TYPE_ARRAY": "Detta fält måste vara en lista",
-    "UNKOWN_FIELD": "Okänd nyckel: {{key}}",
+    "UNKNOWN_FIELD": "Okänd nyckel: {{key}}",
     "BASE_TYPE_CONSTANT": "Det här fältet måste vara {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "E-postadressen har inte korrekt format",
     "DATE_TYPE_PARSE": "Kunde inte tolka {{date}}. Bör vara ISO8601",

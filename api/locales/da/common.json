@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Dette felt skal være en instans på {{type}}",
     "BASE_TYPE_OBJECT": "Dette felt skal være et objekt",
     "BASE_TYPE_ARRAY": "Dette felt skal være et array",
-    "UNKOWN_FIELD": "Ukendt nøgle: {{key}}",
+    "UNKNOWN_FIELD": "Ukendt nøgle: {{key}}",
     "BASE_TYPE_CONSTANT": "Dette felt skal være {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "Ikke en velformet e-mailadresse",
     "DATE_TYPE_PARSE": "Kunne ikke fortolke {{date}}. Bør være ISO8601",

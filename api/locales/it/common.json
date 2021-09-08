@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Questo campo deve essere un'istanza di {{type}}",
     "BASE_TYPE_OBJECT": "Questo campo deve essere un oggetto",
     "BASE_TYPE_ARRAY": "Questo campo deve essere un array",
-    "UNKOWN_FIELD": "Chiave non riconosciuta: {{key}}",
+    "UNKNOWN_FIELD": "Chiave non riconosciuta: {{key}}",
     "BASE_TYPE_CONSTANT": "Questo campo deve essere {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "Questo indirizzo e-mail non è in un formato valido",
     "DATE_TYPE_PARSE": "Impossibile analizzare {{date}}. Dovrebbe essere ISO8601",

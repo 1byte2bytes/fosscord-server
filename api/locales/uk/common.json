@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Це поле повинно бути екземпляром {{type}}",
     "BASE_TYPE_OBJECT": "Це поле має бути об'єктом",
     "BASE_TYPE_ARRAY": "Це поле має бути масивом",
-    "UNKOWN_FIELD": "Невідомий ключ: {{key}}",
+    "UNKNOWN_FIELD": "Невідомий ключ: {{key}}",
     "BASE_TYPE_CONSTANT": "Це поле має бути {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "Неправильно сформована електронна адреса",
     "DATE_TYPE_PARSE": "Не вдається розібрати {{date}}. має бути ISO8601",

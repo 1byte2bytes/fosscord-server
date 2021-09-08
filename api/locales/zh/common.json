@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "此字段必须是 {{type}} 的实例",
     "BASE_TYPE_OBJECT": "此字段必须是对象",
     "BASE_TYPE_ARRAY": "此字段必须是一个数组",
-    "UNKOWN_FIELD": "未知密钥: {{key}}",
+    "UNKNOWN_FIELD": "未知密钥: {{key}}",
     "BASE_TYPE_CONSTANT": "此字段必须是 {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "格式不正确的电子邮件地址",
     "DATE_TYPE_PARSE": "无法解析 {{date}}。应该为 ISO8601",

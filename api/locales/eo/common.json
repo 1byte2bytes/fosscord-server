@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Tio kampo devas kazo de {{type}}",
     "BASE_TYPE_OBJECT": "Tio kampo devas objekto",
     "BASE_TYPE_ARRAY": "Tio kampo devas tabelo",
-    "UNKOWN_FIELD": "Nekonata ŝlosilo: {{key}}",
+    "UNKNOWN_FIELD": "Nekonata ŝlosilo: {{key}}",
     "BASE_TYPE_CONSTANT": "Tio kampo devas {{value}}",
     "EMAIL_TYPE_INVALID_EMAIL": "Formado de retpoŝto estas nevalida",
     "DATE_TYPE_PARSE": "Nevalida dato {{date}}. Devas ISO8601",

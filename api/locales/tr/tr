@@ -9,7 +9,7 @@
     "BASE_TYPE_CLASS": "Bu alan bir {{type}} örneği olmalıdır",
     "BASE_TYPE_OBJECT": "Bu alan bir obje olmalıdır",
     "BASE_TYPE_ARRAY": "Bu alan bir liste olmalıdır",
-    "UNKOWN_FIELD": "Geçersiz alan: {{key}}",
+    "UNKNOWN_FIELD": "Geçersiz alan: {{key}}",
     "BASE_TYPE_CONSTANT": "Bu alan {{value}} olmalıdır",
     "EMAIL_TYPE_INVALID_EMAIL": "Doğru biçimlendirilmiş bir eposta adresi değil",
     "DATE_TYPE_PARSE": "{{date}} ayrıştırılamadı. ISO8601 tarihi olmalıdır",
